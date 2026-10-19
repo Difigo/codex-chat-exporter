@@ -1,6 +1,6 @@
 ## 下载使用
 
-👉 [点击下载最新版本]([sha256:c7e18389a509f1ec4127cfff65c0a8cc659dd62ea93934a69d77cf2960d016d7](https://github.com/Difigo/codex-chat-exporter/releases/download/v0.1.0/codex-chat-exporter.zip))
+👉 [点击下载最新版本](https://github.com/Difigo/codex-chat-exporter/releases/download/v0.1.0/codex-chat-exporter.zip)
 
 进入页面后，在 **Assets** 中下载“codex-chat-exporter.zip”。
 解压后双击“打开导出器.cmd”即可启动。
