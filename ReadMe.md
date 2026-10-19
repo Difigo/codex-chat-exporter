@@ -1,3 +1,12 @@
+## 下载使用
+
+👉 [点击下载最新版本](https://github.com/Difigo/codex-chat-exporter/releases/latest)
+
+进入页面后，在 **Assets** 中下载“codex-chat-exporter.zip”。
+解压后双击“打开导出器.cmd”即可启动。
+
+运行要求：Windows 10/11，Python 3.10+（包含 Tkinter）。
+
 # Codex 对话导出器
 
 1. 双击 `打开导出器.cmd`。
